@@ -1,7 +1,7 @@
 ## Product Manager
 We are looking for a product manager to join our product team as we develop products for our growing customer base. We want someone who has a passion for solving problems and building products that customers love. You should have a good few years of product experience and are looking for your next challenge in a fast and innovative startup environment. Working with cross functional teams, you will be responsible to discover, define, and deliver products across mobile and web platforms. You'll play a vital role in building the tools that people use every day. 
 
-### Key Responsibilities
+### Key responsibilities
 - Discover and understand the needs of our customers, driving empathy and a customer-centric approach to product management
 - Lead and communicate the product strategy and roadmap for the products you manage
 - Identify, prioritise, define, and launch features across our mobile and web applications, working with all the different teams involved
