@@ -1,8 +1,8 @@
 ## Product Manager
 
 #### Important Note
-This job description is informed by (and essentially is a copy of) [Marty Cagan's post on the topic](https://svpg.com/product-manager-job-description/)
-All original intellectual property and copyright remains with Marty Cagan and/or the SVPG.
+This job description is informed by (and essentially is a copy of) [Marty Cagan's post on the topic](https://svpg.com/product-manager-job-description/).
+All original intellectual property and copyright remains with Marty Cagan and/or the SVPG. I claim no ownership of this job description.
 
 ### Responsibilities
 - Identify and solve customer and business problems in ways that our customers love yet work for our business
